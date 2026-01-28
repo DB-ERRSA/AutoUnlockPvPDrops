@@ -1,0 +1,5 @@
+name: AutoUnlockPvPDrops
+version: 1.0.0
+main: com.errsa.AutoUnlockPvPDrops
+api-version: "1.20"
+softdepend: [GriefPrevention, PvpToggle]
